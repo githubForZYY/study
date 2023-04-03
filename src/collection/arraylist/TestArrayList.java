@@ -14,4 +14,5 @@ public class TestArrayList {
         l.add(b);
         System.out.println("添加一个元素时ArrayList的初始容量："+l.size());
     }
+    //测试推送本地工程到GitHub
 }
